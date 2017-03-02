@@ -1,4 +1,4 @@
-# ProgUzytkowe
+# ProgUzytkowe Skrzat
 # Heading 1
 JPaszynski
 ## Heading 2  "opis projektu"
